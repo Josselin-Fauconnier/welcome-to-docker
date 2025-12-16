@@ -1,7 +1,6 @@
 # Docker Job 2 : Manipulation et Modification de Conteneur
 
-Ce dossier documente les étapes réalisées pour le Job 2, consistant à récupérer une image Docker, l'exécuter, modifier le code source et relancer le conteneur avec les modifications.
-
+Ce readme est pour Pierre a fait de correspondre à lexercice. 
 ## Étapes Réalisées
 
 ### 1. Récupération de l'image
