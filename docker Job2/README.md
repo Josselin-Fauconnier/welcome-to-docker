@@ -1,6 +1,6 @@
 # Docker Job 2 : Manipulation et Modification de Conteneur
 
-Ce readme est pour Pierre a fait de correspondre à lexercice. 
+Ce readme est pour Pierre pour correspondre à l'exercice. 
 ## Étapes Réalisées
 
 ### 1. Récupération de l'image
